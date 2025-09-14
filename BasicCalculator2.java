@@ -31,11 +31,7 @@ class Solution {
                 sign = c;
             }
         }
-
         
-        // while(!stack.isEmpty()) {
-        //     calValue+=Integer.valueOf(stack.pop());
-        // }
         return calValue;
     }
 }
